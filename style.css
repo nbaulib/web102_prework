@@ -10,6 +10,11 @@ body {
     width: 50px;
 }
 
+.mx {
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
 .header {
     display: flex;
     background-color: #a8cfc5;
