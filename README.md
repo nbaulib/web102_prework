@@ -36,7 +36,7 @@ I had slight trouble appending the template strings to their correct containers,
 
 ## Credits
 
-Thank you, [realtimecolors.com](https://www.realtimecolors.com/?colors=e6f1ee-070d0b-a8cfc5-2B4B4F-76a4b4&fonts=Poppins-Poppins), for helping me find colors that comply with WCAG!
+Thank you to [realtimecolors.com](https://www.realtimecolors.com/?colors=e6f1ee-070d0b-a8cfc5-2B4B4F-76a4b4&fonts=Poppins-Poppins) for helping me find colors that comply with WCAG!
 
 ## License
 
