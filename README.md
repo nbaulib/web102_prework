@@ -4,7 +4,7 @@ Submitted by: **Nico Bautista-Libreros**
 
 **Sea Monster Funding Hub** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -25,18 +25,18 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/BNXziOM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with [ezgif.com](https://ezgif.com/video-to-gif/)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had slight trouble appending the template strings to their correct containers, so I renamed my variables for clarity.
+
+## Credits
+
+Thank you, [realtimecolors.com](https://www.realtimecolors.com/?colors=e6f1ee-070d0b-a8cfc5-2B4B4F-76a4b4&fonts=Poppins-Poppins), for helping me find colors that comply with WCAG!
 
 ## License
 
