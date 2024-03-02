@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [x] The color scheme complies with WCAG (Web Content Accessibility Guidelines) AAA standards, ensuring visibility.
-* [x] The Stats and Our Game section has subtle animations to provide a more engaging experience.
+* [x] The Stats and Our Game sections have subtle animations to provide a more engaging experience.
 
 
 ## Video Walkthrough
